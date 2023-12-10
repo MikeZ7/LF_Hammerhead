@@ -21,7 +21,7 @@ Project of line following robot HAMMERHEAD
 
 ## Current Version
 
-![LF_v2](https://github.com/MikeZ7/LF_Hammerhead/blob/main/Images/LF_HammerheadV2.png)
+![LF_v2](https://github.com/MikeZ7/LF_Hammerhead/blob/main/Images/LF_HammerheadV2.jpg)
 
 
 
